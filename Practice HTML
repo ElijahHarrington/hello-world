@@ -13,5 +13,7 @@
 
 <body>
   <p>This is great!<p>
+  <button>click me?</button>
+  <section></section>
 </body>
 </html>
